@@ -1,4 +1,4 @@
-FROM jenkinsci/slave
+FROM jenkins/slave
 LABEL MAINTAINER="ZhuJun Lu <24comic@gmail.com>"
 
 ENV NVM_VERSION 0.33.11
